@@ -181,10 +181,7 @@ The `tests/fixtures/leads_sample.json` contains 100 synthetic leads for testing 
 4. Ensure all tests pass
 5. Submit a pull request
 
-## 📄 License
-
-[Your License Here]
 
 ## 🆘 Support
 
-For questions or issues, please open a GitHub issue or contact the development team.
+For questions or issues, please open a GitHub issue or contact me.
