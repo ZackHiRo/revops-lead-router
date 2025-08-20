@@ -1,0 +1,17 @@
+{
+  "US": "us-team@company.com",
+  "CA": "canada-team@company.com",
+  "UK": "emea-team@company.com",
+  "DE": "emea-team@company.com",
+  "FR": "emea-team@company.com",
+  "NL": "emea-team@company.com",
+  "SE": "emea-team@company.com",
+  "AU": "apac-team@company.com",
+  "SG": "apac-team@company.com",
+  "JP": "apac-team@company.com",
+  "IN": "apac-team@company.com",
+  "BR": "latam-team@company.com",
+  "MX": "latam-team@company.com",
+  "AR": "latam-team@company.com",
+  "DEFAULT": "general@company.com"
+}

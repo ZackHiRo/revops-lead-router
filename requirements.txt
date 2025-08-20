@@ -1,0 +1,12 @@
+fastapi==0.112.*
+uvicorn[standard]==0.30.*
+langgraph==0.2.*
+httpx==0.27.*
+redis==5.*
+pinecone-client==5.*
+openai==1.*
+python-dotenv==1.*
+loguru==0.7.*
+pydantic==2.*
+hubspot-api-client
+slack_sdk

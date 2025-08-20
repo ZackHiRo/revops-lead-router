@@ -1,0 +1,767 @@
+[
+  {
+    "email": "john.doe@acme.com",
+    "company": "Acme Corp",
+    "full_name": "John Doe",
+    "title": "Director of Engineering",
+    "source": "website",
+    "country": "US",
+    "website": "https://acme.com"
+  },
+  {
+    "email": "sarah.smith@techstart.io",
+    "company": "TechStart",
+    "full_name": "Sarah Smith",
+    "title": "VP of Product",
+    "source": "linkedin",
+    "country": "US",
+    "website": "https://techstart.io"
+  },
+  {
+    "email": "mike.johnson@fintechplus.com",
+    "company": "FinTech Plus",
+    "full_name": "Mike Johnson",
+    "title": "CTO",
+    "source": "referral",
+    "country": "CA",
+    "website": "https://fintechplus.com"
+  },
+  {
+    "email": "emma.wilson@ecomsolutions.co.uk",
+    "company": "Ecom Solutions",
+    "full_name": "Emma Wilson",
+    "title": "Head of Technology",
+    "source": "website",
+    "country": "UK",
+    "website": "https://ecomsolutions.co.uk"
+  },
+  {
+    "email": "david.brown@healthtech.de",
+    "company": "HealthTech GmbH",
+    "full_name": "David Brown",
+    "title": "VP Engineering",
+    "source": "conference",
+    "country": "DE",
+    "website": "https://healthtech.de"
+  },
+  {
+    "email": "lisa.garcia@edtech.fr",
+    "company": "EduTech Solutions",
+    "full_name": "Lisa Garcia",
+    "title": "Director of Innovation",
+    "source": "website",
+    "country": "FR",
+    "website": "https://edtech.fr"
+  },
+  {
+    "email": "james.lee@saasplatform.com",
+    "company": "SaaS Platform Inc",
+    "full_name": "James Lee",
+    "title": "CEO",
+    "source": "cold_outreach",
+    "country": "US",
+    "website": "https://saasplatform.com"
+  },
+  {
+    "email": "anna.anderson@retailtech.nl",
+    "company": "RetailTech BV",
+    "full_name": "Anna Anderson",
+    "title": "CTO",
+    "source": "website",
+    "country": "NL",
+    "website": "https://retailtech.nl"
+  },
+  {
+    "email": "robert.taylor@logistics.se",
+    "company": "Logistics Solutions AB",
+    "full_name": "Robert Taylor",
+    "title": "VP Operations",
+    "source": "referral",
+    "country": "SE",
+    "website": "https://logistics.se"
+  },
+  {
+    "email": "maria.rodriguez@aiplatform.com.au",
+    "company": "AI Platform Pty Ltd",
+    "full_name": "Maria Rodriguez",
+    "title": "Director of AI",
+    "source": "website",
+    "country": "AU",
+    "website": "https://aiplatform.com.au"
+  },
+  {
+    "email": "thomas.ng@cybersecurity.sg",
+    "company": "CyberSecurity Solutions",
+    "full_name": "Thomas Ng",
+    "title": "VP Security",
+    "source": "conference",
+    "country": "SG",
+    "website": "https://cybersecurity.sg"
+  },
+  {
+    "email": "yuki.tanaka@robotics.jp",
+    "company": "Robotics Innovations",
+    "full_name": "Yuki Tanaka",
+    "title": "CTO",
+    "source": "website",
+    "country": "JP",
+    "website": "https://robotics.jp"
+  },
+  {
+    "email": "priya.patel@cloudplatform.in",
+    "company": "Cloud Platform India",
+    "full_name": "Priya Patel",
+    "title": "VP Engineering",
+    "source": "linkedin",
+    "country": "IN",
+    "website": "https://cloudplatform.in"
+  },
+  {
+    "email": "carlos.silva@agtech.br",
+    "company": "AgTech Brasil",
+    "full_name": "Carlos Silva",
+    "title": "Director of Technology",
+    "source": "website",
+    "country": "BR",
+    "website": "https://agtech.br"
+  },
+  {
+    "email": "juan.martinez@mobility.mx",
+    "company": "Mobility Solutions MX",
+    "full_name": "Juan Martinez",
+    "title": "VP Product",
+    "source": "referral",
+    "country": "MX",
+    "website": "https://mobility.mx"
+  },
+  {
+    "email": "sofia.hernandez@renewable.ar",
+    "company": "Renewable Energy AR",
+    "full_name": "Sofia Hernandez",
+    "title": "CTO",
+    "source": "website",
+    "country": "AR",
+    "website": "https://renewable.ar"
+  },
+  {
+    "email": "alex.kim@blockchain.ca",
+    "company": "Blockchain Ventures",
+    "full_name": "Alex Kim",
+    "title": "VP Development",
+    "source": "conference",
+    "country": "CA",
+    "website": "https://blockchain.ca"
+  },
+  {
+    "email": "rachel.green@analytics.co.uk",
+    "company": "Analytics Pro UK",
+    "full_name": "Rachel Green",
+    "title": "Director of Data Science",
+    "source": "website",
+    "country": "UK",
+    "website": "https://analytics.co.uk"
+  },
+  {
+    "email": "mark.weber@automation.de",
+    "company": "Automation Systems",
+    "full_name": "Mark Weber",
+    "title": "VP Engineering",
+    "source": "cold_outreach",
+    "country": "DE",
+    "website": "https://automation.de"
+  },
+  {
+    "email": "claire.dubois@biotech.fr",
+    "company": "BioTech Innovations",
+    "full_name": "Claire Dubois",
+    "title": "CTO",
+    "source": "website",
+    "country": "FR",
+    "website": "https://biotech.fr"
+  },
+  {
+    "email": "kevin.zhang@quantum.us",
+    "company": "Quantum Computing Corp",
+    "full_name": "Kevin Zhang",
+    "title": "VP Research",
+    "source": "referral",
+    "country": "US",
+    "website": "https://quantum.us"
+  },
+  {
+    "email": "nina.ivanova@space.ru",
+    "company": "Space Technologies",
+    "full_name": "Nina Ivanova",
+    "title": "Director of Engineering",
+    "source": "website",
+    "country": "RU",
+    "website": "https://space.ru"
+  },
+  {
+    "email": "hans.mueller@industrial.de",
+    "company": "Industrial IoT Solutions",
+    "full_name": "Hans Mueller",
+    "title": "VP Operations",
+    "source": "conference",
+    "country": "DE",
+    "website": "https://industrial.de"
+  },
+  {
+    "email": "elena.kovac@medtech.sk",
+    "company": "MedTech Slovakia",
+    "full_name": "Elena Kovac",
+    "title": "CTO",
+    "source": "website",
+    "country": "SK",
+    "website": "https://medtech.sk"
+  },
+  {
+    "email": "peter.novak@fintech.cz",
+    "company": "FinTech Czech Republic",
+    "full_name": "Peter Novak",
+    "title": "VP Engineering",
+    "source": "linkedin",
+    "country": "CZ",
+    "website": "https://fintech.cz"
+  },
+  {
+    "email": "anna.kowalski@ecommerce.pl",
+    "company": "E-commerce Poland",
+    "full_name": "Anna Kowalski",
+    "title": "Director of Technology",
+    "source": "website",
+    "country": "PL",
+    "website": "https://ecommerce.pl"
+  },
+  {
+    "email": "marcus.johansson@gaming.se",
+    "company": "Gaming Studios Sweden",
+    "full_name": "Marcus Johansson",
+    "title": "VP Development",
+    "source": "referral",
+    "country": "SE",
+    "website": "https://gaming.se"
+  },
+  {
+    "email": "lars.nielsen@logistics.dk",
+    "company": "Logistics Denmark",
+    "full_name": "Lars Nielsen",
+    "title": "CTO",
+    "source": "website",
+    "country": "DK",
+    "website": "https://logistics.dk"
+  },
+  {
+    "email": "helena.silva@tourism.pt",
+    "company": "Tourism Tech Portugal",
+    "full_name": "Helena Silva",
+    "title": "VP Innovation",
+    "source": "conference",
+    "country": "PT",
+    "website": "https://tourism.pt"
+  },
+  {
+    "email": "giuseppe.rossi@foodtech.it",
+    "company": "FoodTech Italia",
+    "full_name": "Giuseppe Rossi",
+    "title": "Director of R&D",
+    "source": "website",
+    "country": "IT",
+    "website": "https://foodtech.it"
+  },
+  {
+    "email": "carlos.rodriguez@energy.es",
+    "company": "Energy Solutions Spain",
+    "full_name": "Carlos Rodriguez",
+    "title": "VP Engineering",
+    "source": "cold_outreach",
+    "country": "ES",
+    "website": "https://energy.es"
+  },
+  {
+    "email": "sophie.martin@fashion.fr",
+    "company": "Fashion Tech France",
+    "full_name": "Sophie Martin",
+    "title": "CTO",
+    "source": "website",
+    "country": "FR",
+    "website": "https://fashion.fr"
+  },
+  {
+    "email": "pierre.leblanc@automotive.ca",
+    "company": "Automotive Tech Canada",
+    "full_name": "Pierre Leblanc",
+    "title": "VP Product",
+    "source": "referral",
+    "country": "CA",
+    "website": "https://automotive.ca"
+  },
+  {
+    "email": "isabella.santos@realestate.br",
+    "company": "Real Estate Tech Brasil",
+    "full_name": "Isabella Santos",
+    "title": "Director of Innovation",
+    "source": "website",
+    "country": "BR",
+    "website": "https://realestate.br"
+  },
+  {
+    "email": "diego.gonzalez@education.mx",
+    "company": "Education Technology Mexico",
+    "full_name": "Diego Gonzalez",
+    "title": "VP Engineering",
+    "source": "conference",
+    "country": "MX",
+    "website": "https://education.mx"
+  },
+  {
+    "email": "valentina.rossi@healthcare.it",
+    "company": "Healthcare Tech Italy",
+    "full_name": "Valentina Rossi",
+    "title": "CTO",
+    "source": "website",
+    "country": "IT",
+    "website": "https://healthcare.it"
+  },
+  {
+    "email": "oliver.schmidt@manufacturing.de",
+    "company": "Manufacturing Solutions",
+    "full_name": "Oliver Schmidt",
+    "title": "VP Operations",
+    "source": "linkedin",
+    "country": "DE",
+    "website": "https://manufacturing.de"
+  },
+  {
+    "email": "emma.andersson@retail.se",
+    "company": "Retail Technology Sweden",
+    "full_name": "Emma Andersson",
+    "title": "Director of Digital",
+    "source": "website",
+    "country": "SE",
+    "website": "https://retail.se"
+  },
+  {
+    "email": "lucas.ferreira@banking.pt",
+    "company": "Digital Banking Portugal",
+    "full_name": "Lucas Ferreira",
+    "title": "VP Technology",
+    "source": "referral",
+    "country": "PT",
+    "website": "https://banking.pt"
+  },
+  {
+    "email": "sophia.kim@telecom.kr",
+    "company": "Telecom Innovations Korea",
+    "full_name": "Sophia Kim",
+    "title": "CTO",
+    "source": "website",
+    "country": "KR",
+    "website": "https://telecom.kr"
+  },
+  {
+    "email": "li.wei@aiplatform.cn",
+    "company": "AI Platform China",
+    "full_name": "Li Wei",
+    "title": "VP Research",
+    "source": "conference",
+    "country": "CN",
+    "website": "https://aiplatform.cn"
+  },
+  {
+    "email": "akiko.yamamoto@robotics.jp",
+    "company": "Advanced Robotics Japan",
+    "full_name": "Akiko Yamamoto",
+    "title": "Director of Engineering",
+    "source": "website",
+    "country": "JP",
+    "website": "https://robotics.jp"
+  },
+  {
+    "email": "raj.patel@fintech.in",
+    "company": "FinTech India",
+    "full_name": "Raj Patel",
+    "title": "VP Product",
+    "source": "cold_outreach",
+    "country": "IN",
+    "website": "https://fintech.in"
+  },
+  {
+    "email": "ahmed.hassan@ecommerce.ae",
+    "company": "E-commerce UAE",
+    "full_name": "Ahmed Hassan",
+    "title": "CTO",
+    "source": "website",
+    "country": "AE",
+    "website": "https://ecommerce.ae"
+  },
+  {
+    "email": "fatima.al-zahra@healthtech.sa",
+    "company": "HealthTech Saudi Arabia",
+    "full_name": "Fatima Al-Zahra",
+    "title": "VP Innovation",
+    "source": "referral",
+    "country": "SA",
+    "website": "https://healthtech.sa"
+  },
+  {
+    "email": "mohammed.ali@logistics.eg",
+    "company": "Logistics Egypt",
+    "full_name": "Mohammed Ali",
+    "title": "Director of Technology",
+    "source": "website",
+    "country": "EG",
+    "website": "https://logistics.eg"
+  },
+  {
+    "email": "nadia.benali@aiplatform.ma",
+    "company": "AI Platform Morocco",
+    "full_name": "Nadia Benali",
+    "title": "VP Engineering",
+    "source": "conference",
+    "country": "MA",
+    "website": "https://aiplatform.ma"
+  },
+  {
+    "email": "samuel.ngugi@agtech.ke",
+    "company": "AgTech Kenya",
+    "full_name": "Samuel Ngugi",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://agtech.ke"
+  },
+  {
+    "email": "grace.adebayo@fintech.ng",
+    "company": "FinTech Nigeria",
+    "full_name": "Grace Adebayo",
+    "title": "VP Product",
+    "source": "linkedin",
+    "country": "NG",
+    "website": "https://fintech.ng"
+  },
+  {
+    "email": "david.mutai@ecommerce.ug",
+    "company": "E-commerce Uganda",
+    "full_name": "David Mutai",
+    "title": "Director of Digital",
+    "source": "website",
+    "country": "UG",
+    "website": "https://ecommerce.ug"
+  },
+  {
+    "email": "sarah.otieno@healthtech.tz",
+    "company": "HealthTech Tanzania",
+    "full_name": "Sarah Otieno",
+    "title": "VP Technology",
+    "source": "referral",
+    "country": "TZ",
+    "website": "https://healthtech.tz"
+  },
+  {
+    "email": "james.kamau@logistics.ke",
+    "company": "Logistics Kenya",
+    "full_name": "James Kamau",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://logistics.ke"
+  },
+  {
+    "email": "mary.wanjiku@edtech.ke",
+    "company": "EduTech Kenya",
+    "full_name": "Mary Wanjiku",
+    "title": "VP Innovation",
+    "source": "conference",
+    "country": "KE",
+    "website": "https://edtech.ke"
+  },
+  {
+    "email": "peter.odhiambo@agtech.ke",
+    "company": "AgTech Solutions Kenya",
+    "full_name": "Peter Odhiambo",
+    "title": "Director of Engineering",
+    "source": "website",
+    "country": "KE",
+    "website": "https://agtech.ke"
+  },
+  {
+    "email": "jane.akinyi@fintech.ke",
+    "company": "FinTech Kenya",
+    "full_name": "Jane Akinyi",
+    "title": "VP Product",
+    "source": "cold_outreach",
+    "country": "KE",
+    "website": "https://fintech.ke"
+  },
+  {
+    "email": "robert.kiplagat@ecommerce.ke",
+    "company": "E-commerce Kenya",
+    "full_name": "Robert Kiplagat",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://ecommerce.ke"
+  },
+  {
+    "email": "lisa.chebet@healthtech.ke",
+    "company": "HealthTech Kenya",
+    "full_name": "Lisa Chebet",
+    "title": "VP Engineering",
+    "source": "referral",
+    "country": "KE",
+    "website": "https://healthtech.ke"
+  },
+  {
+    "email": "michael.kiprop@logistics.ke",
+    "company": "Logistics Solutions Kenya",
+    "full_name": "Michael Kiprop",
+    "title": "Director of Operations",
+    "source": "website",
+    "country": "KE",
+    "website": "https://logistics.ke"
+  },
+  {
+    "email": "susan.rotich@edtech.ke",
+    "company": "EduTech Kenya",
+    "full_name": "Susan Rotich",
+    "title": "VP Technology",
+    "source": "conference",
+    "country": "KE",
+    "website": "https://edtech.ke"
+  },
+  {
+    "email": "daniel.kimutai@agtech.ke",
+    "company": "AgTech Kenya",
+    "full_name": "Daniel Kimutai",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://agtech.ke"
+  },
+  {
+    "email": "nancy.chepkoech@fintech.ke",
+    "company": "FinTech Kenya",
+    "full_name": "Nancy Chepkoech",
+    "title": "VP Innovation",
+    "source": "linkedin",
+    "country": "KE",
+    "website": "https://fintech.ke"
+  },
+  {
+    "email": "brian.kipchirchir@ecommerce.ke",
+    "company": "E-commerce Kenya",
+    "full_name": "Brian Kipchirchir",
+    "title": "Director of Digital",
+    "source": "website",
+    "country": "KE",
+    "website": "https://ecommerce.ke"
+  },
+  {
+    "email": "cynthia.jepchirchir@healthtech.ke",
+    "company": "HealthTech Kenya",
+    "full_name": "Cynthia Jepchirchir",
+    "title": "VP Product",
+    "source": "referral",
+    "country": "KE",
+    "website": "https://healthtech.ke"
+  },
+  {
+    "email": "eric.kipngetich@logistics.ke",
+    "company": "Logistics Kenya",
+    "full_name": "Eric Kipngetich",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://logistics.ke"
+  },
+  {
+    "email": "faith.chepkemoi@edtech.ke",
+    "company": "EduTech Kenya",
+    "full_name": "Faith Chepkemoi",
+    "title": "VP Engineering",
+    "source": "conference",
+    "country": "KE",
+    "website": "https://edtech.ke"
+  },
+  {
+    "email": "gabriel.kiprotich@agtech.ke",
+    "company": "AgTech Kenya",
+    "full_name": "Gabriel Kiprotich",
+    "title": "Director of Innovation",
+    "source": "website",
+    "country": "KE",
+    "website": "https://agtech.ke"
+  },
+  {
+    "email": "hannah.chepkoech@fintech.ke",
+    "company": "FinTech Kenya",
+    "full_name": "Hannah Chepkoech",
+    "title": "VP Technology",
+    "source": "cold_outreach",
+    "country": "KE",
+    "website": "https://fintech.ke"
+  },
+  {
+    "email": "isaac.kipchirchir@ecommerce.ke",
+    "company": "E-commerce Kenya",
+    "full_name": "Isaac Kipchirchir",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://ecommerce.ke"
+  },
+  {
+    "email": "joyce.jepchirchir@healthtech.ke",
+    "company": "HealthTech Kenya",
+    "full_name": "Joyce Jepchirchir",
+    "title": "VP Product",
+    "source": "referral",
+    "country": "KE",
+    "website": "https://healthtech.ke"
+  },
+  {
+    "email": "kevin.kipngetich@logistics.ke",
+    "company": "Logistics Kenya",
+    "full_name": "Kevin Kipngetich",
+    "title": "Director of Operations",
+    "source": "website",
+    "country": "KE",
+    "website": "https://logistics.ke"
+  },
+  {
+    "email": "linda.chepkemoi@edtech.ke",
+    "company": "EduTech Kenya",
+    "full_name": "Linda Chepkemoi",
+    "title": "VP Engineering",
+    "source": "conference",
+    "country": "KE",
+    "website": "https://edtech.ke"
+  },
+  {
+    "email": "mark.kiprotich@agtech.ke",
+    "company": "AgTech Kenya",
+    "full_name": "Mark Kiprotich",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://agtech.ke"
+  },
+  {
+    "email": "nancy.chepkoech@fintech.ke",
+    "company": "FinTech Kenya",
+    "full_name": "Nancy Chepkoech",
+    "title": "VP Innovation",
+    "source": "linkedin",
+    "country": "KE",
+    "website": "https://fintech.ke"
+  },
+  {
+    "email": "oliver.kipchirchir@ecommerce.ke",
+    "company": "E-commerce Kenya",
+    "full_name": "Oliver Kipchirchir",
+    "title": "Director of Digital",
+    "source": "website",
+    "country": "KE",
+    "website": "https://ecommerce.ke"
+  },
+  {
+    "email": "patricia.jepchirchir@healthtech.ke",
+    "company": "HealthTech Kenya",
+    "full_name": "Patricia Jepchirchir",
+    "title": "VP Product",
+    "source": "referral",
+    "country": "KE",
+    "website": "https://healthtech.ke"
+  },
+  {
+    "email": "quentin.kipngetich@logistics.ke",
+    "company": "Logistics Kenya",
+    "full_name": "Quentin Kipngetich",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://logistics.ke"
+  },
+  {
+    "email": "rachel.chepkemoi@edtech.ke",
+    "company": "EduTech Kenya",
+    "full_name": "Rachel Chepkemoi",
+    "title": "VP Engineering",
+    "source": "conference",
+    "country": "KE",
+    "website": "https://edtech.ke"
+  },
+  {
+    "email": "steven.kiprotich@agtech.ke",
+    "company": "AgTech Kenya",
+    "full_name": "Steven Kiprotich",
+    "title": "Director of Innovation",
+    "source": "website",
+    "country": "KE",
+    "website": "https://agtech.ke"
+  },
+  {
+    "email": "tracy.chepkoech@fintech.ke",
+    "company": "FinTech Kenya",
+    "full_name": "Tracy Chepkoech",
+    "title": "VP Technology",
+    "source": "cold_outreach",
+    "country": "KE",
+    "website": "https://fintech.ke"
+  },
+  {
+    "email": "ulysses.kipchirchir@ecommerce.ke",
+    "company": "E-commerce Kenya",
+    "full_name": "Ulysses Kipchirchir",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://ecommerce.ke"
+  },
+  {
+    "email": "victoria.jepchirchir@healthtech.ke",
+    "company": "HealthTech Kenya",
+    "full_name": "Victoria Jepchirchir",
+    "title": "VP Product",
+    "source": "referral",
+    "country": "KE",
+    "website": "https://healthtech.ke"
+  },
+  {
+    "email": "william.kipngetich@logistics.ke",
+    "company": "Logistics Kenya",
+    "full_name": "William Kipngetich",
+    "title": "Director of Operations",
+    "source": "website",
+    "country": "KE",
+    "website": "https://logistics.ke"
+  },
+  {
+    "email": "xavier.chepkemoi@edtech.ke",
+    "company": "EduTech Kenya",
+    "full_name": "Xavier Chepkemoi",
+    "title": "VP Engineering",
+    "source": "conference",
+    "country": "KE",
+    "website": "https://edtech.ke"
+  },
+  {
+    "email": "yolanda.kiprotich@agtech.ke",
+    "company": "AgTech Kenya",
+    "full_name": "Yolanda Kiprotich",
+    "title": "CTO",
+    "source": "website",
+    "country": "KE",
+    "website": "https://agtech.ke"
+  },
+  {
+    "email": "zachary.chepkoech@fintech.ke",
+    "company": "FinTech Kenya",
+    "full_name": "Zachary Chepkoech",
+    "title": "VP Innovation",
+    "source": "linkedin",
+    "country": "KE",
+    "website": "https://fintech.ke"
+  }
+]
